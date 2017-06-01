@@ -1,6 +1,6 @@
 {
   "name": "parse-resolution",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse resolution into an object",
   "license": "MIT",
   "repository": "kevva/parse-resolution",
